@@ -62,7 +62,10 @@
 ###
 
 <br clear="both">
-![snake gif](https://github.com/MattiaPARRINELLO/MattiaPARRINELLO/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source rcset="https://raw.githubusercontent.com/MattiaPARRINELLO/MattiaPARRINELLO/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MattiaPARRINELLO/MattiaPARRINELLO/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
