@@ -1,86 +1,72 @@
-<h2 align="left">Salut ! Je m'appelle Mattia et je suis un lycéen qui aime bien développer de temps en temps !</h2>
+# Mattia Parrinello
 
-###
+**Développeur web · Étudiant en informatique**
 
-<h3 align="left">❓Qui je suis :</h3>
+Je construis des interfaces web propres, lisibles et pensées pour ceux qui les utilisent.  
+Pas de gadgets inutiles, pas de features pour le CV. Juste du code qui fait bien son travail et qui tient dans le temps.
 
-###
+> _Un bon site, c'est comme une bonne photo. Si tu remarques la technique avant le contenu, c'est raté._
 
-<p align="left">Je suis un lycéen qui aime bien coder ! <br><br>👨‍💻 Mon portfolio : https://portfolio.sobot.fr<br>⚡ Fun fact : Je suis un athlète de street workout</p>
+---
 
-###
+## 💻 Ce que je fais
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MattiaPARRINELLO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattiaPARRINELLO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Je développe des expériences web où chaque détail a sa raison d’être.
 
-###
+Je suis polyvalent fullstack, avec une préférence pour le **backend** : structurer, anticiper, optimiser, et rendre un projet solide sur la durée.  
+Le front n’est pas décoratif : chaque layout, chaque animation, chaque micro-interaction a une utilité.
 
-<h3 align="left">🛠️ J'utilise et je code en :</h3>
+Je préfère un projet bien fini à dix projets abandonnés. Mon approche : **simplicité en surface, rigueur en dessous.**
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+## 🛠 Stack & Skills
 
-###
+| Frontend                                                                                                             | Backend                                                                                                  | Outils                                                                                     | Environnement                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)                       | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)       |
+| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)                          |                                                                                                          |                                                                                            | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)      |                                                                                                          |                                                                                            |                                                                                                        |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)      |                                                                                                          |                                                                                            |                                                                                                        |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |                                                                                                          |                                                                                            |                                                                                                        |
 
-<h3 align="left">📱 Me contacter :</h3>
+---
 
-###
+## 🌟 Projet phare — Portfolio photo
 
-<div align="left">
-  <a href="https://instagram.com/mattia_gms" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/363196037776539648" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:contact@sobot.fr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+Mon projet principal, là où code et visuel se rencontrent.
 
-###
+![Aperçu du portfolio](assets/portfolioPreview.gif)
 
-<br clear="both">
-<picture>
-  <source rcset="https://github.com/MattiaPARRINELLO/MattiaPARRINELLO/blob/output/github-contribution-grid-snake.gif">
-  <img alt="github contribution grid snake animation" src="https://github.com/MattiaPARRINELLO/MattiaPARRINELLO/blob/output/github-contribution-grid-snake.gif">
-</picture>
+- Produit réel, conçu de A à Z
+- Performance optimisée : affichage des images adapté à la connexion
+- Micro-interactions discrètes : hover sur les cartes, transitions fluides sur les pages
+- Responsive et durable, pensé pour durer dans le temps
 
-###
+➜ **[Voir le projet](https://photo.mprnl.fr)**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MattiaPARRINELLO&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+---
 
-###
+## ⚡ Comment je pense un projet
 
-<br clear="both">
+1. Comprendre **l’intention et l’expérience** avant de coder
+2. Définir architecture et choix techniques à partir de cette intention
+3. Optimiser performances et micro-interactions (hover, transition)
+4. Retirer le superflu, rendre le projet **simple mais robuste**
 
-<div align="center">
-  <a href="https://open.spotify.com/user/9zjp79nddwc4f3u2rvbz2ykj2">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=9zjp79nddwc4f3u2rvbz2ykj2&count=5&unique=true&width=1000" alt="Spotify recently played"  />
-  </a>
-</div>
+Le détail, ce n’est pas de l’obsession :  
+c’est ce qui sépare un projet qui **fonctionne** d’un projet qui **convainc**.
 
-###
+> Un bon projet web, pour moi, c’est un projet qu’on peut faire évoluer sans avoir envie de tout réécrire.
+
+---
+
+## 📬 Me retrouver
+
+| Contact               | Lien                                                               |
+| --------------------- | ------------------------------------------------------------------ |
+| Email                 | [contact.mprnl@gmail.com](mailto:contact.mprnl@gmail.com)          |
+| GitHub                | [github.com/MattiaParrinello](https://github.com/mattiaPARRINELLO) |
+| Instagram photo       | [instagram.com/mattia_jpeg](https://instagram.com/mattia_jpeg)     |
+| Portfolio développeur | [dev.mprnl.fr](https://dev.mprnl.fr)                               |
+| Portfolio photo       | [photo.mprnl.fr](https://photo.mprnl.fr)                           |
