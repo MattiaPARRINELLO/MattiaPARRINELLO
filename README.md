@@ -1,72 +1,63 @@
-# Mattia Parrinello
+<div align="center">
+  <h1>👨‍💻 Mattia Parrinello</h1>
+  <p><strong>Développeur web · Fullstack JavaScript/Node.js</strong></p>
+  <p>
+    <a href="https://dev.mprnl.fr">portfolio-dev</a> ·
+    <a href="mailto:contact.mprnl@gmail.com">email</a> ·
+    <a href="https://github.com/MattiaPARRINELLO">github</a>
+  </p>
 
-**Développeur web · Étudiant en informatique**
-
-Je construis des interfaces web propres, lisibles et pensées pour ceux qui les utilisent.  
-Pas de gadgets inutiles, pas de features pour le CV. Juste du code qui fait bien son travail et qui tient dans le temps.
-
-> _Un bon site, c'est comme une bonne photo. Si tu remarques la technique avant le contenu, c'est raté._
-
----
-
-## 💻 Ce que je fais
-
-Je développe des expériences web où chaque détail a sa raison d’être.
-
-Je suis polyvalent fullstack, avec une préférence pour le **backend** : structurer, anticiper, optimiser, et rendre un projet solide sur la durée.  
-Le front n’est pas décoratif : chaque layout, chaque animation, chaque micro-interaction a une utilité.
-
-Je préfère un projet bien fini à dix projets abandonnés. Mon approche : **simplicité en surface, rigueur en dessous.**
+![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=visiteurs&query=count&url=https://api.countapi.xyz/hit/mattiaparrinello/profile)
+![GitHub followers](https://img.shields.io/github/followers/MattiaPARRINELLO?style=flat&logo=github)
+</div>
 
 ---
 
-## 🛠 Stack & Skills
+## 💻 À propos
 
-| Frontend                                                                                                             | Backend                                                                                                  | Outils                                                                                     | Environnement                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)                       | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)       |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)                          | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)      |                                                                                            | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)      |                                                                                                          |                                                                                            |                                                                                                        |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)      |                                                                                                          |                                                                                            |                                                                                                        |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |                                                                                                          |                                                                                            |                                                                                                        |
+Développeur web fullstack avec une préférence pour le **backend** : architecture, performance, code maintenable.
+
+Je construis des applications web propres et solides — du prototype à la mise en production. Polyvalent sur toute la stack, je privilégie la simplicité et la rigueur.
 
 ---
 
-## 🌟 Projet phare — Portfolio photo
+## 🛠️ Stack technique
 
-Mon projet principal, là où code et visuel se rencontrent.
-
-![Aperçu du portfolio](assets/portfolioPreview.gif)
-
-- Produit réel, conçu de A à Z
-- Performance optimisée : affichage des images adapté à la connexion
-- Micro-interactions discrètes : hover sur les cartes, transitions fluides sur les pages
-- Responsive et durable, pensé pour durer dans le temps
-
-➜ **[Voir le projet](https://photo.mprnl.fr)**
+| Catégorie | Technologies |
+|-----------|-------------|
+| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, React |
+| **Backend** | Node.js, Express, Next.js, Python |
+| **Bases de données** | MongoDB, MySQL, SQLite (Prisma) |
+| **Outils** | Git, Linux, Docker, Socket.IO, Stripe API |
+| **Mobile** | PWA, Service Workers |
 
 ---
 
-## ⚡ Comment je pense un projet
+## 🚀 Projets phares
 
-1. Comprendre **l’intention et l’expérience** avant de coder
-2. Définir architecture et choix techniques à partir de cette intention
-3. Optimiser performances et micro-interactions (hover, transition)
-4. Retirer le superflu, rendre le projet **simple mais robuste**
-
-Le détail, ce n’est pas de l’obsession :  
-c’est ce qui sépare un projet qui **fonctionne** d’un projet qui **convainc**.
-
-> Un bon projet web, pour moi, c’est un projet qu’on peut faire évoluer sans avoir envie de tout réécrire.
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [**checkmate**](https://github.com/MattiaPARRINELLO/checkmate) | Extension Chrome - Automatisation du pointage CESAR | JavaScript, Manifest V3 |
+| [**smart-budget**](https://github.com/MattiaPARRINELLO/smart-budget) | Plateforme de contenu Next.js 14 optimisée SEO | Next.js, Tailwind, Prisma |
+| [**backend-sorrybut**](https://github.com/MattiaPARRINELLO/backend-sorrybut) | API backend - Paiements Stripe, auth OTP | Node.js, Express, Stripe |
+| [**undercover**](https://github.com/MattiaPARRINELLO/undercover) | Jeu de déduction sociale - Web mobile PWA | JavaScript, PWA |
+| [**super-morpion-v2**](https://github.com/MattiaPARRINELLO/super-morpion-v2) | Jeu multijoueur temps réel | Node.js, Socket.IO |
 
 ---
 
-## 📬 Me retrouver
+## 📊 GitHub Stats
 
-| Contact               | Lien                                                               |
-| --------------------- | ------------------------------------------------------------------ |
-| Email                 | [contact.mprnl@gmail.com](mailto:contact.mprnl@gmail.com)          |
-| GitHub                | [github.com/MattiaParrinello](https://github.com/mattiaPARRINELLO) |
-| Instagram photo       | [instagram.com/mattia_jpeg](https://instagram.com/mattia_jpeg)     |
-| Portfolio développeur | [dev.mprnl.fr](https://dev.mprnl.fr)                               |
-| Portfolio photo       | [photo.mprnl.fr](https://photo.mprnl.fr)                           |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MattiaPARRINELLO&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaPARRINELLO&layout=compact&theme=dark&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 📫 Contact
+
+| | |
+|---|-----|
+| **Email** | [contact.mprnl@gmail.com](mailto:contact.mprnl@gmail.com) |
+| **Portfolio** | [dev.mprnl.fr](https://dev.mprnl.fr) |
+| **GitHub** | [github.com/MattiaPARRINELLO](https://github.com/MattiaPARRINELLO) |
