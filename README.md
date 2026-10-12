@@ -1,72 +1,93 @@
+<div align="center">
+
 # Mattia Parrinello
 
-**Développeur web · Étudiant en informatique**
+**Développeur full-stack JS/TS · Étudiant en informatique**
 
-Je construis des interfaces web propres, lisibles et pensées pour ceux qui les utilisent.  
-Pas de gadgets inutiles, pas de features pour le CV. Juste du code qui fait bien son travail et qui tient dans le temps.
+*Je conçois des applications web qui tournent en production, du serveur à l'interface.*
 
-> _Un bon site, c'est comme une bonne photo. Si tu remarques la technique avant le contenu, c'est raté._
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev.mprnl.fr-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev.mprnl.fr)
+[![Photo](https://img.shields.io/badge/Photographie-photo.mprnl.fr-e05d44?style=for-the-badge&logo=googlephotos&logoColor=white)](https://photo.mprnl.fr)
+[![Email](https://img.shields.io/badge/Email-contact.mprnl@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.mprnl@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia_Parrinello-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-parrinello-015382208/)
 
----
-
-## 💻 Ce que je fais
-
-Je développe des expériences web où chaque détail a sa raison d’être.
-
-Je suis polyvalent fullstack, avec une préférence pour le **backend** : structurer, anticiper, optimiser, et rendre un projet solide sur la durée.  
-Le front n’est pas décoratif : chaque layout, chaque animation, chaque micro-interaction a une utilité.
-
-Je préfère un projet bien fini à dix projets abandonnés. Mon approche : **simplicité en surface, rigueur en dessous.**
+</div>
 
 ---
 
-## 🛠 Stack & Skills
+## 🚀 À propos
 
-| Frontend                                                                                                             | Backend                                                                                                  | Outils                                                                                     | Environnement                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)                       | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)       |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)                          | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)      |                                                                                            | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)      |                                                                                                          |                                                                                            |                                                                                                        |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)      |                                                                                                          |                                                                                            |                                                                                                        |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |                                                                                                          |                                                                                            |                                                                                                        |
+Étudiant en 2ᵉ année de **Bachelor Informatique à Sup de Vinci**, je construis des applications web full-stack en JavaScript, avec TypeScript et React en cours d'apprentissage.
 
----
+**BACKSTAGE** est une PWA déployée en production : passkey, streaming, agenda, push — un projet que j'utilise tous les jours, avec une vraie suite de tests. C'est ce cycle complet — concevoir, coder, tester, livrer — que je veux poursuivre en entreprise.
 
-## 🌟 Projet phare — Portfolio photo
+- 🔐 **Sécurité par défaut** — passkeys, JWT courts, OAuth Google, validation systématique des entrées
+- 🧪 **Tester est un garde-fou** — 46 fichiers de tests (Vitest, Playwright, Jest), pas une formalité
+- ⚡ **Du code à la prod** — variables d'environnement, migrations, monitoring, rollbacks
 
-Mon projet principal, là où code et visuel se rencontrent.
-
-![Aperçu du portfolio](assets/portfolioPreview.gif)
-
-- Produit réel, conçu de A à Z
-- Performance optimisée : affichage des images adapté à la connexion
-- Micro-interactions discrètes : hover sur les cartes, transitions fluides sur les pages
-- Responsive et durable, pensé pour durer dans le temps
-
-➜ **[Voir le projet](https://photo.mprnl.fr)**
+> Un projet réel plutôt que dix exercices.
 
 ---
 
-## ⚡ Comment je pense un projet
+## 🛠 Stack & outils
 
-1. Comprendre **l’intention et l’expérience** avant de coder
-2. Définir architecture et choix techniques à partir de cette intention
-3. Optimiser performances et micro-interactions (hover, transition)
-4. Retirer le superflu, rendre le projet **simple mais robuste**
-
-Le détail, ce n’est pas de l’obsession :  
-c’est ce qui sépare un projet qui **fonctionne** d’un projet qui **convainc**.
-
-> Un bon projet web, pour moi, c’est un projet qu’on peut faire évoluer sans avoir envie de tout réécrire.
+| Domaine | Technologies |
+|---|---|
+| **Langages** | JavaScript · TypeScript (en cours) · Node.js · HTML · CSS |
+| **Frontend** | Next.js · React · Tailwind CSS · PWA |
+| **Backend & IA** | API REST · OpenAI · Anthropic · Ollama (LLM local) · SSE |
+| **Sécurité** | WebAuthn (passkey) · JWT · OAuth |
+| **Tests & déploiement** | Vitest · Playwright · Jest · Docker · Git |
 
 ---
 
-## 📬 Me retrouver
+## 🌟 Projet phare — BACKSTAGE, second cerveau IA
 
-| Contact               | Lien                                                               |
-| --------------------- | ------------------------------------------------------------------ |
-| Email                 | [contact.mprnl@gmail.com](mailto:contact.mprnl@gmail.com)          |
-| GitHub                | [github.com/MattiaParrinello](https://github.com/mattiaPARRINELLO) |
-| Instagram photo       | [instagram.com/mattia_jpeg](https://instagram.com/mattia_jpeg)     |
-| Portfolio développeur | [dev.mprnl.fr](https://dev.mprnl.fr)                               |
-| Portfolio photo       | [photo.mprnl.fr](https://photo.mprnl.fr)                           |
+PWA installable, déployée en production sur [brain.mprnl.fr](https://brain.mprnl.fr) :
+
+- Chat IA à **mémoire persistante** ([brain.mprnl.fr](https://brain.mprnl.fr) — passkey + SSE + OAuth)
+- Rappels synchronisés Microsoft To Do, agenda, notifications push, lecture d'e-mails
+- 34 routes API, 20 Server Actions, ~32 000 lignes, 46 fichiers de tests
+
+➜ **[Dépôt GitHub](https://github.com/MattiaPARRINELLO/backstage)** · **[Voir le projet](https://brain.mprnl.fr)**
+
+---
+
+## 📦 Autres projets
+
+- **Gymshark-Sync** — assistant interne sur LLM local (serveur Node.js/Express + Ollama : synthèses, planification, historique ; tests Jest, doc Swagger) · [github.com/mattia-school/gymshark-sync](https://github.com/mattia-school/gymshark-sync)
+- **Portfolio développeur** — [dev.mprnl.fr](https://dev.mprnl.fr) — stats GitHub temps réel, micro-interactions
+- **Portfolio photo** — [photo.mprnl.fr](https://photo.mprnl.fr) — rendu totalement personnalisable via une interface admin
+
+---
+
+## 💼 Expérience
+
+**Stagiaire développeur — INOVSHOP Group, Paris (2022 – 2023)**
+
+- Planification et affichage des jours de télétravail sur **écrans e-ink** (API e-ink, Node.js)
+- Application web d'affichage en temps réel de l'occupation des salles (HTML/CSS/JS, serveur Node.js)
+
+---
+
+## 📸 À côté du code
+
+**Photographe de concert** pour des médias : Jok'air, Damso, Arma Jackson, Romsii, La Plénitude Arena… couverts à Paris La Défense Arena, La Cigale, La Boule Noire, Reims Arena. Sélection et retouche en autonomie, dans des délais de publication serrés.
+
+Danse (Arabesque, 10 ans) et plongée (moniteur depuis 2 ans) — la rigueur et le travail d'équipe s'apprennent aussi en dehors du terminal.
+
+---
+
+## 🎓 Disponible pour une alternance
+
+Dès **septembre 2027** · rythme 2 sem. entreprise / 2 sem. école · Île-de-France · anglais B2 (First Certificate in English)
+
+[![Contacte-moi](https://img.shields.io/badge/Contacte--moi-1a7f37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.mprnl@gmail.com)
+
+---
+
+<div align="center">
+
+*« Un bon site, c'est comme une bonne photo : si tu remarques la technique avant le contenu, c'est raté. »*
+
+</div>
