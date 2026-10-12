@@ -8,6 +8,7 @@
 
 *Je conçois des applications web qui tournent en production, du serveur à l'interface.*
 
+[![Disponible](https://img.shields.io/badge/Disponible-alternance_sept._2027-2ea043?style=flat-square&logo=checkmarx&logoColor=white)](mailto:contact.mprnl@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-dev.mprnl.fr-58a6ff?style=flat-square&logo=googlechrome&logoColor=white)](https://dev.mprnl.fr)
 [![Email](https://img.shields.io/badge/Email-contact.mprnl@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.mprnl@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mattia_Parrinello-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-parrinello-015382208/)
@@ -21,12 +22,13 @@
 
 Étudiant en 2ᵉ année de **Bachelor Informatique à Sup de Vinci**, je construis des applications web full-stack en JavaScript, avec TypeScript et React en cours d'apprentissage.
 
+**Recherche une alternance dès septembre 2027** — rythme 2 sem. entreprise / 2 sem. école · Île-de-France · anglais B2 (First Certificate in English).
+
 **BACKSTAGE** est une PWA déployée en production que j'utilise tous les jours, avec une vraie suite de tests. C'est ce cycle complet — concevoir, coder, tester, livrer — que je veux poursuivre en entreprise.
 
-| | |
-|:---:|:---:|
-| **~32 000** lignes en production | **46** fichiers de tests |
-| **1** produit utilisé tous les jours | **1** alternance cherchée : sept. 2027 |
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **~32 000** lignes en production | **46** fichiers de tests | **1** produit utilisé tous les jours | **PWA** installable |
 
 - **Sécurité par défaut** — passkeys, JWT courts, OAuth Google, validation systématique des entrées
 - **Tester est un garde-fou** — Vitest, Playwright, Jest, pas une formalité
@@ -36,7 +38,7 @@
 
 ## <img src="assets/icons/layer-group.svg" width="26" valign="middle"> Stack
 
-![Stack technique](https://skillicons.dev/icons?i=js,ts,next,react,nodejs,tailwind,docker,git,vitest,playwright,html,css)
+![Stack technique](https://skillicons.dev/icons?i=js,ts,next,react,nodejs,tailwind,docker,git,vitest,html,css)
 
 ---
 
@@ -61,7 +63,7 @@ PWA installable, déployée en production sur **[brain.mprnl.fr](https://brain.m
 **Gymshark-Sync** — assistant interne sur LLM local (serveur Node.js/Express + Ollama : synthèses, planification, historique ; tests Jest, doc Swagger) · [github.com/mattia-school/gymshark-sync](https://github.com/mattia-school/gymshark-sync)
 
 <div align="center">
-<img src="assets/gymshark-workflows.webp" alt="Aperçu de Gymshark-Sync" width="720">
+<img src="assets/gymshark-home.webp" alt="Page principale de Gymshark-Sync" width="720">
 </div>
 
 **Portfolio développeur** — [dev.mprnl.fr](https://dev.mprnl.fr) — stats GitHub temps réel, micro-interactions.
@@ -88,12 +90,6 @@ Le site [photo.mprnl.fr](https://photo.mprnl.fr), conçu de A à Z, rend le port
 
 - Planification et affichage des jours de télétravail sur **écrans e-ink** (API e-ink, Node.js)
 - Application web d'affichage en temps réel de l'occupation des salles (HTML/CSS/JS, serveur Node.js)
-
----
-
-## <img src="assets/icons/graduation-cap.svg" width="26" valign="middle"> Disponible pour une alternance
-
-Dès **septembre 2027** · rythme **2 sem. entreprise / 2 sem. école** · Île-de-France · anglais **B2** (First Certificate in English)
 
 ---
 
