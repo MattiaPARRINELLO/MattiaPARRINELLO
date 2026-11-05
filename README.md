@@ -20,15 +20,15 @@
 
 ## <img src="assets/icons/circle-user.svg" width="26" valign="middle"> À propos
 
-Étudiant en 2ᵉ année de **Bachelor Informatique à Sup de Vinci**, je construis des applications web full-stack en JavaScript, avec TypeScript et React en cours d'apprentissage.
+Étudiant en 2ᵉ année de **Bachelor Informatique à Sup de Vinci**, je construis des applications web full-stack en **TypeScript** (Next.js, React, Node.js), du schéma de données jusqu'à l'interface.
 
 **Recherche une alternance dès septembre 2027** — rythme 2 sem. entreprise / 2 sem. école · Île-de-France · anglais B2 (First Certificate in English).
 
-**BACKSTAGE** est une PWA déployée en production que j'utilise tous les jours, avec une vraie suite de tests. C'est ce cycle complet — concevoir, coder, tester, livrer — que je veux poursuivre en entreprise.
+Ce que je cherche à montrer ici n'est pas une collection de démos : trois applications réelles, avec des tests, une CI et une mise en production. C'est ce cycle complet — concevoir, coder, tester, livrer — que je veux poursuivre en entreprise.
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| **~32 000** lignes en production | **46** fichiers de tests | **1** produit utilisé tous les jours | **PWA** installable |
+| **3** applications livrées | **~32 000** lignes en production | **46** fichiers de tests | **PWA** installables |
 
 - **Sécurité par défaut** — passkeys, JWT courts, OAuth Google, validation systématique des entrées
 - **Tester est un garde-fou** — Vitest, Playwright, Jest, pas une formalité
@@ -42,9 +42,13 @@
 
 ---
 
-## <img src="assets/backstage-logo.png" width="28" valign="middle"> Projet phare — BACKSTAGE, second cerveau IA
+## <img src="assets/icons/code-branch.svg" width="26" valign="middle"> Projets
 
-PWA installable, déployée en production sur **[brain.mprnl.fr](https://brain.mprnl.fr)** — passkey + streaming + OAuth :
+### BACKSTAGE — second cerveau IA
+
+[![CI](https://github.com/MattiaPARRINELLO/backstage/actions/workflows/ci.yml/badge.svg)](https://github.com/MattiaPARRINELLO/backstage/actions/workflows/ci.yml)
+
+PWA installable, déployée en production sur **[brain.mprnl.fr](https://brain.mprnl.fr)** — passkey + streaming SSE + OAuth :
 
 - Chat IA à **mémoire persistante** : chaque fait est éditable, chaque relation visible, rien n'est une boîte noire
 - Rappels synchronisés Microsoft To Do, agenda, notifications push, lecture d'e-mails
@@ -54,27 +58,64 @@ PWA installable, déployée en production sur **[brain.mprnl.fr](https://brain.m
 <img src="assets/backstage-console.webp" alt="Aperçu de la console BACKSTAGE" width="720">
 </div>
 
-**[Dépôt GitHub](https://github.com/MattiaPARRINELLO/backstage)** · **[Voir le projet](https://brain.mprnl.fr)**
+**[Dépôt](https://github.com/MattiaPARRINELLO/backstage)** · **[Voir en ligne](https://brain.mprnl.fr)**
 
 ---
 
-## <img src="assets/icons/code-branch.svg" width="26" valign="middle"> Autres projets
+### GitQuest — apprendre Git par la pratique
 
-**Gymshark-Sync** — assistant interne sur LLM local (serveur Node.js/Express + Ollama : synthèses, planification, historique ; tests Jest, doc Swagger) · [github.com/mattia-school/gymshark-sync](https://github.com/mattia-school/gymshark-sync)
+[![CI](https://github.com/MattiaPARRINELLO/git-quest/actions/workflows/ci.yml/badge.svg)](https://github.com/MattiaPARRINELLO/git-quest/actions/workflows/ci.yml)
+
+Jeu gratuit, dans le navigateur ou sur Android, où chaque commande Git tape dessine le graphe.
+
+- **6 chapitres, 19 missions** : branche, commit, merge, conflit, remote, push, pull
+- Vrai moteur Git côté client — ce n'est pas un quiz, c'est un dépôt qui réagit
+- PWA hors-ligne, APK Android signé, CI (typecheck, tests, build, smoke test)
 
 <div align="center">
-<img src="assets/gymshark-home.webp" alt="Page principale de Gymshark-Sync" width="720">
+<img src="assets/demo.gif" alt="Créer une branche, commiter, revenir sur main et fusionner — le graphe se dessine" width="720">
 </div>
 
-**Portfolio développeur** — [dev.mprnl.fr](https://dev.mprnl.fr) — stats GitHub temps réel, micro-interactions.
+**[Jouer](https://mattiaparrinello.github.io/git-quest/)** · **[Dépôt](https://github.com/MattiaPARRINELLO/git-quest)**
+
+---
+
+### Night Light — spectacle lumineux synchronisé sur la musique
+
+[![CI](https://github.com/MattiaPARRINELLO/night-light-v2/actions/workflows/ci.yml/badge.svg)](https://github.com/MattiaPARRINELLO/night-light-v2/actions/workflows/ci.yml)
+
+Tu déposes un morceau, le serveur l'analyse, le navigateur joue un show lumineux calé sur le temps musical.
+
+- Analyse audio en **Python (librosa)** : bandes, tempo, temps forts, énergie, montées
+- Rendu **Canvas 2D** piloté par `audio.currentTime` — pas un visualiseur qui réagit au volume
+- Après une pause ou un retour en arrière, le spectacle reprend exactement là où la musique en est
+
+<div align="center">
+<img src="assets/spectacle-1.webp" alt="Spectacle Night Light" width="360">
+<img src="assets/spectacle-2.webp" alt="Anneaux et faisceaux" width="360">
+</div>
+
+**[Dépôt](https://github.com/MattiaPARRINELLO/night-light-v2)**
+
+---
+
+## <img src="assets/icons/diagram-project.svg" width="26" valign="middle"> Autres projets
+
+**Portfolio développeur** — [dev.mprnl.fr](https://dev.mprnl.fr) — stats GitHub temps réel, micro-interactions, direction artistique maison.
+
+**Portfolio photo** — [photo.mprnl.fr](https://photo.mprnl.fr) — galeries entièrement personnalisables via une interface d'administration (Next.js, stockage local, déploiement continu).
+
+**Autologin** — extension Chrome qui automatise le pointage CESAR Emineo, utilisée par des élèves de mon école.
+
+**Stellaris** — API de réservation de rendez-vous avec authentification par clé, tests et documentation.
+
+**Gymshark-Sync** — assistant interne sur LLM local (Node.js/Express + Ollama : synthèses, planification, historique ; tests Jest, doc Swagger) · [github.com/mattia-school/gymshark-sync](https://github.com/mattia-school/gymshark-sync)
 
 ---
 
 ## <img src="assets/icons/camera.svg" width="26" valign="middle"> Photographie
 
 **Photographe de concert** pour des médias (Jok'air, Damso, Arma Jackson, Romsii…) : couverture de concerts, sélection et retouche des images en autonomie, dans des délais de publication serrés.
-
-Le site [photo.mprnl.fr](https://photo.mprnl.fr), conçu de A à Z, rend le portfolio photo entièrement personnalisable via une interface admin — galeries, langue, affichage.
 
 <div align="center">
 <img src="assets/portfolioPreview.webp" alt="Aperçu animé du portfolio photo" width="720">
