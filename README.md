@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/cover.png" alt="Mattia Parrinello — Développeur full-stack JS/TS">
+<img src="assets/cover.png" alt="Mattia Parrinello, développeur full-stack JS/TS">
 
 # Mattia Parrinello
 
@@ -73,21 +73,21 @@ Jeu gratuit, dans le navigateur ou sur Android, où chaque commande Git tape des
 - PWA hors-ligne, APK Android signé, CI (typecheck, tests, build, smoke test)
 
 <div align="center">
-<img src="assets/demo.gif" alt="Créer une branche, commiter, revenir sur main et fusionner — le graphe se dessine" width="720">
+<img src="assets/demo.gif" alt="Créer une branche, commiter, revenir sur main et fusionner : le graphe se dessine" width="720">
 </div>
 
 **[Jouer](https://mattiaparrinello.github.io/git-quest/)** · **[Dépôt](https://github.com/MattiaPARRINELLO/git-quest)**
 
 ---
 
-### Night Light — spectacle lumineux synchronisé sur la musique
+### Night Light : spectacle lumineux synchronisé sur la musique
 
 [![CI](https://github.com/MattiaPARRINELLO/night-light-v2/actions/workflows/ci.yml/badge.svg)](https://github.com/MattiaPARRINELLO/night-light-v2/actions/workflows/ci.yml)
 
 Tu déposes un morceau, le serveur l'analyse, le navigateur joue un show lumineux calé sur le temps musical.
 
 - Analyse audio en **Python (librosa)** : bandes, tempo, temps forts, énergie, montées
-- Rendu **Canvas 2D** piloté par `audio.currentTime` — pas un visualiseur qui réagit au volume
+- Rendu **Canvas 2D** piloté par `audio.currentTime`, pas un visualiseur qui réagit au volume
 - Après une pause ou un retour en arrière, le spectacle reprend exactement là où la musique en est
 
 <div align="center">
@@ -101,9 +101,9 @@ Tu déposes un morceau, le serveur l'analyse, le navigateur joue un show lumineu
 
 ## <img src="assets/icons/diagram-project.svg" width="26" valign="middle"> Autres projets
 
-**Portfolio développeur** — [dev.mprnl.fr](https://dev.mprnl.fr) — stats GitHub temps réel, micro-interactions, direction artistique maison.
+**Portfolio développeur** : [dev.mprnl.fr](https://dev.mprnl.fr) — stats GitHub temps réel, micro-interactions, direction artistique maison.
 
-**Portfolio photo** — [photo.mprnl.fr](https://photo.mprnl.fr) — galeries entièrement personnalisables via une interface d'administration (Next.js, stockage local, déploiement continu).
+**Portfolio photo** : [photo.mprnl.fr](https://photo.mprnl.fr) — galeries entièrement personnalisables via une interface d'administration (Next.js, stockage local, déploiement continu).
 
 **Autologin** — extension Chrome qui automatise le pointage CESAR Emineo, utilisée par des élèves de mon école.
 
@@ -127,7 +127,7 @@ Tu déposes un morceau, le serveur l'analyse, le navigateur joue un show lumineu
 
 ## <img src="assets/icons/briefcase.svg" width="26" valign="middle"> Expérience
 
-**Stagiaire développeur — INOVSHOP Group, Paris (2022 – 2023)**
+**Stagiaire développeur, INOVSHOP Group, Paris (2022 – 2023)**
 
 - Planification et affichage des jours de télétravail sur **écrans e-ink** (API e-ink, Node.js)
 - Application web d'affichage en temps réel de l'occupation des salles (HTML/CSS/JS, serveur Node.js)
