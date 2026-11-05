@@ -22,17 +22,17 @@
 
 Étudiant en 2ᵉ année de **Bachelor Informatique à Sup de Vinci**, je construis des applications web full-stack en **TypeScript** (Next.js, React, Node.js), du schéma de données jusqu'à l'interface.
 
-**Recherche une alternance dès septembre 2027** — rythme 2 sem. entreprise / 2 sem. école · Île-de-France · anglais B2 (First Certificate in English).
+**Recherche une alternance dès septembre 2027** : rythme 2 sem. entreprise / 2 sem. école · Île-de-France · anglais B2 (First Certificate in English).
 
-Ce que je cherche à montrer ici n'est pas une collection de démos : trois applications réelles, avec des tests, une CI et une mise en production. C'est ce cycle complet — concevoir, coder, tester, livrer — que je veux poursuivre en entreprise.
+Ce que je cherche à montrer ici n'est pas une collection de démos : trois applications réelles, avec des tests, une CI et une mise en production. Ce cycle complet (concevoir, coder, tester, livrer), je veux le poursuivre en entreprise.
 
 | | | | |
 |:---:|:---:|:---:|:---:|
 | **3** applications livrées | **~32 000** lignes en production | **46** fichiers de tests | **PWA** installables |
 
-- **Sécurité par défaut** — passkeys, JWT courts, OAuth Google, validation systématique des entrées
-- **Tester est un garde-fou** — Vitest, Playwright, Jest, pas une formalité
-- **Livrer, pas seulement coder** — variables d'environnement, migrations, monitoring, rollbacks
+- **Sécurité par défaut** : passkeys, JWT courts, OAuth Google, validation systématique des entrées
+- **Tester est un garde-fou** : Vitest, Playwright, Jest, pas une formalité
+- **Livrer, pas seulement coder** : variables d'environnement, migrations, monitoring, rollbacks
 
 ---
 
@@ -44,11 +44,11 @@ Ce que je cherche à montrer ici n'est pas une collection de démos : trois appl
 
 ## <img src="assets/icons/code-branch.svg" width="26" valign="middle"> Projets
 
-### BACKSTAGE — second cerveau IA
+### BACKSTAGE : second cerveau IA
 
 [![CI](https://github.com/MattiaPARRINELLO/backstage/actions/workflows/ci.yml/badge.svg)](https://github.com/MattiaPARRINELLO/backstage/actions/workflows/ci.yml)
 
-PWA installable, déployée en production sur **[brain.mprnl.fr](https://brain.mprnl.fr)** — passkey + streaming SSE + OAuth :
+PWA installable, déployée en production sur **[brain.mprnl.fr](https://brain.mprnl.fr)** : passkey + streaming SSE + OAuth :
 
 - Chat IA à **mémoire persistante** : chaque fait est éditable, chaque relation visible, rien n'est une boîte noire
 - Rappels synchronisés Microsoft To Do, agenda, notifications push, lecture d'e-mails
@@ -62,14 +62,14 @@ PWA installable, déployée en production sur **[brain.mprnl.fr](https://brain.m
 
 ---
 
-### GitQuest — apprendre Git par la pratique
+### GitQuest : apprendre Git par la pratique
 
 [![CI](https://github.com/MattiaPARRINELLO/git-quest/actions/workflows/ci.yml/badge.svg)](https://github.com/MattiaPARRINELLO/git-quest/actions/workflows/ci.yml)
 
 Jeu gratuit, dans le navigateur ou sur Android, où chaque commande Git tape dessine le graphe.
 
 - **6 chapitres, 19 missions** : branche, commit, merge, conflit, remote, push, pull
-- Vrai moteur Git côté client — ce n'est pas un quiz, c'est un dépôt qui réagit
+- Vrai moteur Git côté client : ce n'est pas un quiz, c'est un dépôt qui réagit
 - PWA hors-ligne, APK Android signé, CI (typecheck, tests, build, smoke test)
 
 <div align="center">
@@ -101,15 +101,15 @@ Tu déposes un morceau, le serveur l'analyse, le navigateur joue un show lumineu
 
 ## <img src="assets/icons/diagram-project.svg" width="26" valign="middle"> Autres projets
 
-**Portfolio développeur** : [dev.mprnl.fr](https://dev.mprnl.fr) — stats GitHub temps réel, micro-interactions, direction artistique maison.
+**Portfolio développeur** : [dev.mprnl.fr](https://dev.mprnl.fr) : stats GitHub temps réel, micro-interactions, direction artistique maison.
 
-**Portfolio photo** : [photo.mprnl.fr](https://photo.mprnl.fr) — galeries entièrement personnalisables via une interface d'administration (Next.js, stockage local, déploiement continu).
+**Portfolio photo** : [photo.mprnl.fr](https://photo.mprnl.fr) : galeries entièrement personnalisables via une interface d'administration (Next.js, stockage local, déploiement continu).
 
-**Autologin** — extension Chrome qui automatise le pointage CESAR Emineo, utilisée par des élèves de mon école.
+**Autologin** : extension Chrome qui automatise le pointage CESAR Emineo, utilisée par des élèves de mon école.
 
-**Stellaris** — API de réservation de rendez-vous avec authentification par clé, tests et documentation.
+**Stellaris** : API de réservation de rendez-vous avec authentification par clé, tests et documentation.
 
-**Gymshark-Sync** — assistant interne sur LLM local (Node.js/Express + Ollama : synthèses, planification, historique ; tests Jest, doc Swagger) · [github.com/mattia-school/gymshark-sync](https://github.com/mattia-school/gymshark-sync)
+**Gymshark-Sync** : assistant interne sur LLM local (Node.js/Express + Ollama : synthèses, planification, historique ; tests Jest, doc Swagger) · [github.com/mattia-school/gymshark-sync](https://github.com/mattia-school/gymshark-sync)
 
 ---
 
