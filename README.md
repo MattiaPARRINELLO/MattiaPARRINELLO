@@ -105,9 +105,11 @@ Tu déposes un morceau, le serveur l'analyse, le navigateur joue un show lumineu
 
 **Portfolio photo** : [photo.mprnl.fr](https://photo.mprnl.fr) : galeries entièrement personnalisables via une interface d'administration (Next.js, stockage local, déploiement continu).
 
-**Autologin** : extension Chrome qui automatise le pointage CESAR Emineo, utilisée par des élèves de mon école.
+**Autologin** : application de bureau Windows et Linux qui surveille CESAR Emineo et signe l'émargement automatiquement, utilisée par des élèves de mon école · [dépôt](https://github.com/MattiaPARRINELLO/autologin)
 
-**Stellaris** : API de réservation de rendez-vous avec authentification par clé, tests et documentation.
+**Suivi-Rapstar** : gestion des accréditations photo pour concerts et événements (demandes, validations, rôles) · [dépôt](https://github.com/MattiaPARRINELLO/suivi-rapstar)
+
+**Stellaris** : API de réservation de rendez-vous avec authentification par clé, tests et documentation · [dépôt](https://github.com/MattiaPARRINELLO/stellaris)
 
 **Gymshark-Sync** : assistant interne sur LLM local (Node.js/Express + Ollama : synthèses, planification, historique ; tests Jest, doc Swagger) · [github.com/mattia-school/gymshark-sync](https://github.com/mattia-school/gymshark-sync)
 
